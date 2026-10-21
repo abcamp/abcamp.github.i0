@@ -3,18 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "abcamp.github.i0"
+  title: "Amber Camp"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - resume.qmd
+      - icon: github
+        href: http://github.com/abcamp
+        target: blank
+      - href: http://google.com
+        text: Google?
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: 
+      light: minty
+      dark: solar
     css: styles.css
     toc: true
 
