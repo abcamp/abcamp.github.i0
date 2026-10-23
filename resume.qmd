@@ -1,7 +1,11 @@
 ---
 title: "Resume"
+resources:
+  - media/camp_cv_public_092724.pdf
 ---
 
 aksdhbf;lakshdbfv;ad
 
 {{< pdf media/camp_cv_public_092724.pdf width=100% height=800 >}}
+
+![](media/camp_cv_public_092724.pdf)

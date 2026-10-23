@@ -1,1 +1,28 @@
 /* css styles */
+h1, p {
+  color: orange;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  color: black;
+  font-style: italic;
+} 
+
+body {
+  background-color: antiquewhite;
+}
+
+ol, ul {
+  color: blue;
+  font-style: italic;
+}
+
+a {
+  color: purple;
+}
+
+

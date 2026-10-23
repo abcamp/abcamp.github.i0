@@ -3,17 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Amber Camp"
+  # title: "Amber Camp"
   navbar:
     right:
       - href: index.qmd
         text: Home
+      - about.qmd
       - resume.qmd
       - icon: github
         href: http://github.com/abcamp
         target: blank
-      - href: http://google.com
-        text: Google?
 
 format:
   html:
