@@ -5,6 +5,7 @@ project:
 website:
   # title: "Amber Camp"
   navbar:
+    background: secondary
     right:
       - href: index.qmd
         text: Home

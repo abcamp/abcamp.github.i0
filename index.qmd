@@ -4,8 +4,8 @@ image: media/wug.jpg
 toc: false
 about:
   template: trestles
-  image-shape: round
-  image-width: 10em
+  image-shape: rounded
+  image-width: 15em
   links:
     - icon: github
       href: http://github.com/abcamp
@@ -18,7 +18,7 @@ about:
 
 ### This is header3
 
-This is a paragraph. It will be about me. [Welcome](espn.com)!
+This is a paragraph. It will be about me. [Welcome](http://www.espn.com)!
 
 - this
 
@@ -30,7 +30,7 @@ This is a paragraph. It will be about me. [Welcome](espn.com)!
 
 - list
 
-kjhfadkjhf;kdafghj
+Here is more paragraph text.
 
 1.  This
 2.  is
